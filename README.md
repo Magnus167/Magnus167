@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 -->
 
 
-![Spalash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Magnus167&show_icons=true&count_private=true&include_all_commits=True&theme=radical)
+![Splash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Magnus167&show_icons=true&count_private=true&include_all_commits=True&theme=radical&custom_title=Splash%27s%20GitHub%20Stats)
 
  - I’m currently working for [Macrosynergy](https://github.com/macrosynergy/) - [macrosynergy.com](https://macrosynergy.com/).
 - 📫 How to reach me: palash@tyagi.me
+- 🌱 A Brief History of me : [magnus167.github.io](https://magnus167.github.io/)
 - 💬 Ask me about: Anything! If I don't know the answer, I'll tell you; but I'm pretty sure I'll know how to find out.
 - ⚡ Fun fact: You only have to know one thing - you can learn anything. -Sal Khan, from Khanacademy
 
