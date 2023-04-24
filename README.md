@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ![Splash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Magnus167&show_icons=true&count_private=true&include_all_commits=True&theme=radical&custom_title=Splash%27s%20GitHub%20Stats)
 
- - I’m currently working for [Macrosynergy](https://github.com/macrosynergy/) - [macrosynergy.com](https://macrosynergy.com/).
+ - For the foreseeable future, I'm working for [Macrosynergy](https://macrosynergy.com/) - [GH:Macrosynergy](https://github.com/macrosynergy)
 - 📫 How to reach me: palash@tyagi.me
 - 🌱 A Brief History of me : [magnus167.github.io](https://magnus167.github.io/)
 - 💬 Ask me about: Anything! If I don't know the answer, I'll tell you; but I'm pretty sure I'll know how to find out.
