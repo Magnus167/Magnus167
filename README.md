@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 ![Splash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Magnus167&show_icons=true&count_private=true&include_all_commits=True&theme=radical&custom_title=Splash%27s%20GitHub%20Stats)
 
+![Splash's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Magnus167&line_height=32&hide=Makefile,css&langs_count=5&show_icons=true&count_private=true&include_all_commits=True&theme=radical&custom_title=Splash%27s%20Most%20Used%20Languages)
+
  - For the foreseeable future, I'm working for [Macrosynergy](https://macrosynergy.com/) - [GH:Macrosynergy](https://github.com/macrosynergy)
 - 📫 How to reach me: palash@tyagi.me
 - 🌱 A Brief History of me : [magnus167.github.io](https://magnus167.github.io/)
