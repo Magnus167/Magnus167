@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 # Palash's GitHub
 
 
-![Splash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Magnus167&show_icons=true&count_private=true&include_all_commits=True&theme=radical&card_width=200px&hide_title=true)
 ![Splash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Magnus167&show_icons=true&count_private=true&include_all_commits=True&theme=radical&hide_title=true)
 
 - Software Engineer at [Macrosynergy](https://macrosynergy.com/) - [GH:Macrosynergy](https://github.com/macrosynergy)
