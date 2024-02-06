@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![Splash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Magnus167&show_icons=true&count_private=true&include_all_commits=True&theme=radical&card_width=200px&hide_title=true)
 
 ![Splash's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Magnus167&line_height=32&hide=Makefile,css&langs_count=5&show_icons=true&count_private=true&include_all_commits=True&theme=radical&card_width=50)
-
+![trophy](https://github-profile-trophy.vercel.app/?username=Magnus167&theme=onedark) -- thanks https://github.com/ryo-ma/github-profile-trophy
 -->
 
 # Palash's GitHub
@@ -36,3 +36,5 @@ Here are some ideas to get you started:
 Also checkout:
  - [macrosynergy](https://github.com/macrosynergy/macrosynergy) - Macrosynergy Quant Research
  - [jarPhys](https://github.com/Magnus167/jarPhys) - a useful text-scraper
+
+
