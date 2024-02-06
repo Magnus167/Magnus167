@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 
 ![Splash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Magnus167&show_icons=true&count_private=true&include_all_commits=True&theme=radical&hide_title=true)
+--
+## Profile Visitors: <img alt="visitors counter" src="https://profile-counter.glitch.me/magnus167/count.svg">  
 
 - Software Engineer at [Macrosynergy](https://macrosynergy.com/) - [GH:Macrosynergy](https://github.com/macrosynergy)
 - 📫 How to reach me: palash@tyagi.me
