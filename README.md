@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - Software Engineer at [Macrosynergy](https://macrosynergy.com/) - [GH:Macrosynergy](https://github.com/macrosynergy)
 - 📫 How to reach me: palash@tyagi.me
-- 🌱 A Brief History of me : [magnus167.github.io](https://magnus167.github.io/)
+- 🌱 A Brief History of me : [tyagi.me](https://www.tyagi.me)
 - 💬 Ask me about: Anything! If I don't know the answer, I'll tell you; but I'm pretty sure I'll know how to find out.
 - ⚡ Fun fact: You only have to know one thing - you can learn anything. -[Sal Khan](https://en.wikipedia.org/wiki/Sal_Khan), from [KhanAcademy](https://www.khanacademy.org/)
 
