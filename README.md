@@ -21,12 +21,11 @@ Here are some ideas to get you started:
 ![Splash's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Magnus167&line_height=32&hide=Makefile,css&langs_count=5&show_icons=true&count_private=true&include_all_commits=True&theme=radical&card_width=50)
 ![trophy](https://github-profile-trophy.vercel.app/?username=Magnus167&theme=onedark) -- thanks https://github.com/ryo-ma/github-profile-trophy
 
+# Palash's GitHub
+
 ## Profile Visitors: <img alt="visitors counter" src="https://profile-counter.glitch.me/magnus167/count.svg"> 
 
 -->
-
-# Palash's GitHub
-
 
 ![Splash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Magnus167&show_icons=true&count_private=true&include_all_commits=True&theme=radical&hide_title=true)
 --
