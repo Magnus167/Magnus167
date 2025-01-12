@@ -1,6 +1,7 @@
+<!--
 ### Hi there 👋
 
-<!--
+
 **Magnus167/Magnus167** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,17 +14,27 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+![Magnus167's GitHub stats](https://github-readme-stats.vercel.app/api?username=Magnus167&show_icons=true&count_private=true&include_all_commits=True&theme=radical&card_width=200px&hide_title=true)
+
+![Magnus167's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Magnus167&line_height=32&hide=Makefile,css&langs_count=5&show_icons=true&count_private=true&include_all_commits=True&theme=radical&card_width=50)
+![trophy](https://github-profile-trophy.vercel.app/?username=Magnus167&theme=onedark) -- thanks https://github.com/ryo-ma/github-profile-trophy
+
+# Palash's GitHub
+
+## Profile Visitors: <img alt="visitors counter" src="https://profile-counter.glitch.me/magnus167/count.svg"> 
+
 -->
 
+![Magnus167's GitHub stats](https://github-readme-stats.vercel.app/api?username=Magnus167&show_icons=true&count_private=true&include_all_commits=True&theme=radical&hide_title=true)
+--
 
-![Spalash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Magnus167&show_icons=true&count_private=true&include_all_commits=True&theme=radical)
-
- - I’m currently working for [Macrosynergy](https://github.com/macrosynergy/) - [macrosynergy.com](https://macrosynergy.com/).
-- 📫 How to reach me: palash@tyagi.me
-- 💬 Ask me about: Anything! If I don't know the answer, I'll tell you; but I'm pretty sure I'll know how to find out.
-- ⚡ Fun fact: You only have to know one thing - you can learn anything. -Sal Khan, from Khanacademy
+- Software Engineer at [Macrosynergy](https://macrosynergy.com/) - [GH:Macrosynergy](https://github.com/macrosynergy)
+- A Brief History of me : [tyagi.me](https://www.tyagi.me)
 
 Also checkout:
  - [macrosynergy](https://github.com/macrosynergy/macrosynergy) - Macrosynergy Quant Research
  - [jarPhys](https://github.com/Magnus167/jarPhys) - a useful text-scraper
- - [Splash's Git Guide](https://gist.github.com/Magnus167/84e199de5e634acd6f91c0f9c2970db0) - Cheat Sheet for common git commands
+
+
