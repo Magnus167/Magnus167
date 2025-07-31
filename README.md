@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ![Magnus167's GitHub stats](https://github-readme-stats.vercel.app/api?username=Magnus167&show_icons=true&count_private=true&include_all_commits=True&theme=radical&hide_title=true)
 --
 
-- Software Engineer at [Macrosynergy](https://macrosynergy.com/) - [GH:Macrosynergy](https://github.com/macrosynergy)
+- Software Engineer at [Macrosynergy](https://github.com/macrosynergy)
 - A Brief History of me : [tyagi.me](https://www.tyagi.me)
 
 Also checkout:
