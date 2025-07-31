@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 
 Also checkout:
  - [macrosynergy](https://github.com/macrosynergy/macrosynergy) - Macrosynergy Quant Research
+ - [rustframe](https://github.com/Magnus167/rustframe) - a lightweight dataframe & math toolkit for Rust
  - [jarPhys](https://github.com/Magnus167/jarPhys) - a useful text-scraper
 
 
