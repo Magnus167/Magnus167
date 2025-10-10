@@ -33,8 +33,10 @@ Here are some ideas to get you started:
 - Software Engineer at [Macrosynergy](https://github.com/macrosynergy)
 - A Brief History of me : [tyagi.me](https://www.tyagi.me)
 
-Also checkout:
- - [rustframe](https://github.com/Magnus167/rustframe) - a lightweight dataframe & math toolkit for Rust
- - [jarPhys](https://github.com/Magnus167/jarPhys) - a useful text-scraper
+### Featured Projects
 
+- [rustframe](https://github.com/Magnus167/rustframe) - **Rust** - Lightweight dataframe & math toolkit. 
+- [git-insights](https://github.com/Magnus167/git-insights) - **Rust/CLI** - CLI for Git repo analytics.
+- [o](https://github.com/Magnus167/o) - **Rust/CLI** - Customizable CLI system monitor.
+- [jarPhys](https://github.com/Magnus167/jarPhys) - **Python** - OCR-powered PDF/image search for notes & courseware.
 
