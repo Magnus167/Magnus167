@@ -36,7 +36,5 @@ Here are some ideas to get you started:
 ### Featured Projects
 
 - [rustframe](https://github.com/Magnus167/rustframe) - **Rust** - Lightweight dataframe & math toolkit. 
-- [git-insights](https://github.com/Magnus167/git-insights) - **Rust/CLI** - CLI for Git repo analytics.
-- [o](https://github.com/Magnus167/o) - **Rust/CLI** - Customizable CLI system monitor.
 - [jarPhys](https://github.com/Magnus167/jarPhys) - **Python** - OCR-powered PDF/image search for notes & courseware.
 
