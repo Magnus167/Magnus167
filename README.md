@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 
 - [rustframe](https://github.com/Magnus167/rustframe) - **Rust** - Lightweight dataframe & math toolkit. 
 - [jarPhys](https://github.com/Magnus167/jarPhys) - **Python** - OCR-powered PDF/image search for notes & courseware.
-
+- [dev-tools-installer](https://github.com/magnus167/dev-tools-installer/) - **Shell/HTML** -  [A Ninite inspired installer for common Linux dev tools](https://magnus167.github.io/dev-tools-installer/)
